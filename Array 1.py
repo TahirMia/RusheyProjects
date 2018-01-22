@@ -1,0 +1,10 @@
+my_list=["john", "derek", "samantha", "yvonne"]
+print(my_list)
+print(my_list[0])
+print(my_list[1])
+print(my_list[2])
+print(my_list[3])
+(my_list.append("test"))
+my_list.sort()
+print(my_list[4])
+print(my_list)
