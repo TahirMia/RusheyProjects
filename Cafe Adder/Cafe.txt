@@ -1,0 +1,10 @@
+Here is the menu...
+
+Coffee-£2
+Cake-£2
+Chocolate-£1
+Toast-£1
+Muffin-£1
+English Breakfast-£4
+Egg-£1
+Donut-£1
